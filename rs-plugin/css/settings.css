@@ -1,4 +1,4 @@
-/*-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 	-	Revolution Slider 4.1 Captions -
 
@@ -1285,7 +1285,7 @@ border-style:none;
 .tp-dottedoverlay.twoxtwo				{	background:url(../assets/gridtile.png)}
 .tp-dottedoverlay.twoxtwowhite			{	background:url(../assets/gridtile_white.png)}
 .tp-dottedoverlay.threexthree			{	background:url(../assets/gridtile_3x3.png)}
-.tp-dottedoverlay.threexthreewhite		{	background:url(../assets/gridtile_3x3_white.png)}
+/*.tp-dottedoverlay.threexthreewhite		{	background:url(../assets/gridtile_3x3_white.png)}*/
 /********************************
 	-	DOTTED OVERLAYS ENDS	-
 *********************************/
@@ -2342,4 +2342,4 @@ zoom: 1;
 .revicon-right-open-2:before { content: '\e82d'; } /* '' */
 .revicon-equalizer:before { content: '\e83a'; } /* '' */
 .revicon-layers-alt:before { content: '\e804'; } /* '' */
-.revicon-popup:before { content: '\e828'; } /* '' */
+.revicon-popup:before { content: '\e828'; } /* '' 
